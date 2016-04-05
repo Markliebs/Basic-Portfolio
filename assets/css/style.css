@@ -18,16 +18,27 @@
 .center{
 	float:left;
 }
+.kira{
+	float:left;
+	margin-top:5px;
+}
+.p{
+	padding-top:10px;
+}
 .aboutme{
 	margin-left:70px;
 	float:left;
 	width:50%;
 }
+.h2{
+	font-size:24px;
+}
+
 .connect{
 	float:left;
 	float:top;
-	margin-left:80%;
-	margin-top:-100px;
+	margin-left:77.9%;
+	margin-top:-330px;
 	height:20%;
 	width:80%;
 }
